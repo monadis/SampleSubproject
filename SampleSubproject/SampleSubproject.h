@@ -8,6 +8,4 @@
 
 #import <Foundation/Foundation.h>
 
-@interface SampleSubproject : NSObject
-
-@end
+#import <SampeSubproject/SSHelloer.h>

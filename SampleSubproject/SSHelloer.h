@@ -1,13 +1,15 @@
 //
-//  SampleSubproject.m
+//  SSHelloer.h
 //  SampleSubproject
 //
 //  Created by LYH on 13. 5. 29..
 //  Copyright (c) 2013년 YK. All rights reserved.
 //
 
-#import "SampleSubproject.h"
+#import <Foundation/Foundation.h>
 
-@implementation SampleSubproject
+@interface SSHelloer : NSObject
+
+- (NSString *)hello;
 
 @end
